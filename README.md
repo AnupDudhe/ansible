@@ -38,7 +38,7 @@ Ansible is used for automating tasks related to configuration management, infras
 
 Ansible works by connecting to nodes (or hosts) and pushing out small programs called modules to these nodes. Nodes are the target endpoints servers, network devices, or any computer that you aim to manage with Ansible. Modules are used to accomplish automation tasks in Ansible.
 
-Ansible Architecture Components
+Ansible Architecture Components:
 
 1. Control Node: The machine where Ansible is installed and from which commands and playbooks are executed. It connects to managed nodes using SSH or WinRM. 
 
